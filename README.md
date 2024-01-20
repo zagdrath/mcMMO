@@ -13,6 +13,7 @@ I plan to post links to our new wiki (its still under development), downloads, a
 ### Builds
 Currently, you can obtain our builds via the Spigot or Polymart:
 
+Test
 
 http://spigot.mcmmo.org
 
